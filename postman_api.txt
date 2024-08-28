@@ -1,0 +1,15 @@
+1.all user api -> GET - http://127.0.0.1:8000/api/account/users/ 
+
+2.login api -> POST - http://127.0.0.1:8000/api/account/login/
+
+3.signup api -> POST - http://127.0.0.1:8000/api/account/signup/
+
+4.send friend request -> POST - http://127.0.0.1:8000/api/account/friend_request/send/
+
+5.respond friend request -> PUT - http://127.0.0.1:8000/api/account/friend_request/response/
+
+6.pending request -> GET - http://127.0.0.1:8000/api/account/friend_requests/pending/
+
+7.friend list api -> GET - http://127.0.0.1:8000/api/account/friends/
+
+8. user search api -> GET - http://127.0.0.1:8000/api/account/users/15/
